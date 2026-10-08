@@ -14,3 +14,5 @@ en nem tudom hogy mukodik ez a fika
 
 Roland fika vagy
 >>>>>>> de083105f8850236dc276af4a9e25194db758788
+
+Roland te fikusz mit csinaltal bro
